@@ -1,0 +1,12 @@
+com\assignment\framework\WebController\IWebController.class
+com\assignment\framework\DAO\IDAO.class
+com\assignment\oop\Util\NumToEngCont.class
+com\assignment\oop\ResponseBO\OOPResponseObject.class
+com\assignment\framework\RestController\IRestController.class
+com\assignment\framework\ResponseBO\ResponseObject.class
+com\assignment\oop\WebController\GeneralController.class
+com\assignment\oop\Service\OOPService.class
+com\assignment\framework\Entities\IIdentifiable.class
+com\assignment\oop\Util\TestCons.class
+com\assignment\framework\Service\IService.class
+com\assignment\oop\RestController\OOPRestController.class
